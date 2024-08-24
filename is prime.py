@@ -11,7 +11,7 @@ for i in range(len(n)):
         p.append(n[i])
     else:
         np.append(n[i])
-print(p,np)
+print('простые-',p,'не простые-',np)
 
 
 
